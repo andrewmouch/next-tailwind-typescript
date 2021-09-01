@@ -1,6 +1,6 @@
 {
   "name": "next-tailwind-typescript",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "script for creating a next/tailwind/typescript application",
   "main": "build.sh",
   "scripts": {
