@@ -9,10 +9,11 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "next-typescript-tailwind": "build.sh"
+    "next-tailwind-typescript": "build.sh"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/andrewmouch/next-tailwind-typescript.git"
-  }
+  },
+  "dependencies": {}
 }
