@@ -2,8 +2,6 @@
 
 A tool for initializing your next.js applications with tailwind-css and typescript.
 
-https://www.npmjs.com/package/next-tailwind-typescript
-
 To get your project started, run:
 ```
 npx next-tailwind-typescript [project-name]
