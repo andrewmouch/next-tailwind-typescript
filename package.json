@@ -1,6 +1,6 @@
 {
   "name": "next-tailwind-typescript",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "script for creating a next/tailwind/typescript application",
   "main": "build.sh",
   "scripts": {
@@ -10,5 +10,9 @@
   "license": "ISC",
   "bin": {
     "next-typescript-tailwind": "build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewmouch/next-tailwind-typescript.git"
   }
 }
